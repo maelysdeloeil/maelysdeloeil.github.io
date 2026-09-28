@@ -22,10 +22,7 @@ Restait le switch, un modèle 16 ports à 100 Mb/s dont les compteurs affichaien
 
 ## Outils mobilisés
 
-- Switch administrable 16 ports gigabit (modèle de prêt, puis modèle acheté)
-- Testeur de câble RJ45
-- Wireshark 4.2 pour observer les retransmissions
-- GLPI 10.0 pour le suivi du ticket et la mise à jour de l'inventaire
+ Kernel-Power 41
 
 ## Précautions prises
 
