@@ -39,7 +39,7 @@
 </nav>
 
         <a
-    href="documents/CV_Alternance.pdf.pdf"
+    href="documents/Deloeil_Maelys_CV.pdf.pdf"
     class="cv-button"
     download
 >
@@ -59,7 +59,7 @@
                 </p>
 
                 <h1>
-                    Safia Cherifi
+                    Maelys Deloeil
                 </h1>
 
                 <h2>
@@ -67,10 +67,11 @@
                 </h2>
 
                 <p class="hero-description">
-                    Étudiante en informatique, je développe progressivement
-            mes compétences dans le web et les technologies numériques.
-            Curieuse et motivée, je suis actuellement à la recherche
-            d'une alternance. 
+                    Passionnée des technologie qui m'entour depuis le collège, 
+                    je me suis orienté dans un BTS SIO la ou je développe
+                    mes compétences dans le web et les technologies numériques.
+                    Curieuse et motivée, je suis actuellement à la recherche
+                    d'une alternance. 
                 </p>
 
                 <div class="hero-buttons">
@@ -116,8 +117,8 @@
 
         <p class="about-text">
             Je suis une étudiante en informatique,
-            qui souhaite développer des compétences dans le milieu
-            afin de trouver une alternance. 
+            et, je souhaite trouvé une entreprise pour appliquée mes compétences dans le milieu
+            profesionnel tout en continuant de développer mes compétences. 
         </p>
 
         <p class="about-text">
@@ -242,7 +243,7 @@
                     alt="Projet e-commerce"
                 >
 
-                <a href="https://safiacherifi.github.io/mon-portfolio/" class="project-arrow">
+                <a href="https://maelysdeloeil.github.io/" class="project-arrow">
                     ↗
                 </a>
 
@@ -354,11 +355,11 @@
             <div class="skill-main">
 
                 <h3>
-                    Frontend
+                    Maîtrisse du HTML
                 </h3>
 
                 <p>
-                    Création d'interfaces
+                    Maîtrisse du SQL
                 </p>
 
             </div>
@@ -384,18 +385,18 @@
             <div class="skill-main">
 
                 <h3>
-                    Montage de poste
+                    Certification Responsive Web Design
                 </h3>
 
                 <p>
-                    Montage et assemblage de poste informatique
+                    Apprentissage de JavaScript
                 </p>
 
             </div>
 
             <div class="skill-tags">
 
-                <span>Montage PC</span>
+                <span>Base de donnée</span>
                 <span>Hardware</span>
 
             </div>
@@ -468,8 +469,8 @@
                     EMAIL
                 </span>
 
-                <a href="mailto:safia.cherifi01@gmail.com">
-                    safia.cherifi01@gmail.com
+                <a href="mailto:maelys.deloeil@my-digital-school.org">
+                    maelys.deloeil@my-digital-school.org
                 </a>
 
             </div>
@@ -496,7 +497,7 @@
 
                 <div class="contact-socials">
 
-                    <a href="tel:+33695836881"> 
+                    <a href="tel:+33766110617"> 
                         Mon numéro ↗
                     </a>
 
@@ -508,7 +509,7 @@
 
 
         <a
-            href="mailto:safia.cherifi01@gmail.com"
+            href="mailto:maelys.deloeil@my-digital-school.org"
             class="contact-button"
         >
             Me contacter
@@ -528,7 +529,7 @@
     </div>
 
     <p>
-        © 2026 — Safia Cherifi Tous droits réservés
+        © 2026 — Maëlys Deloeil Tous droits réservés
     </p>
 
     <a href="#">
