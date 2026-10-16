@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Mon Portfolio</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600&display=swap"
+    rel="stylesheet"
+>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="header">
+
+        <a href="#" class="logo">S</a>
+
+        <nav class="nav">
+
+    <a href="#hero">Accueil</a>
+
+    <a href="#about">À propos</a>
+
+    <a href="#projects">Projets</a>
+
+    <a href="#skills">Compétences</a>
+
+    <a href="#contact">Contact</a>
+
+</nav>
+
+        <a
+    href="documents/CV_Alternance.pdf.pdf"
+    class="cv-button"
+    download
+>
+    Télécharger mon CV
+</a>
+    </header>
+
+
+    <main>
+
+        <section class="hero" id="hero">
+
+            <div class="hero-content">
+
+                <p class="eyebrow">
+                    BONJOUR, JE SUIS
+                </p>
+
+                <h1>
+                    Safia Cherifi
+                </h1>
+
+                <h2>
+                    Etudiante en Informatique
+                </h2>
+
+                <p class="hero-description">
+                    Étudiante en informatique, je développe progressivement
+            mes compétences dans le web et les technologies numériques.
+            Curieuse et motivée, je suis actuellement à la recherche
+            d'une alternance. 
+                </p>
+
+                <div class="hero-buttons">
+
+                   <a href="#projects" class="button button-primary">
+    Voir mes projets →
+</a>
+
+<a href="#contact" class="button button-secondary">
+    Me contacter
+</a>
+
+                </div>
+
+            </div>
+
+
+            <div class="hero-image">
+
+    <div class="shape shape-burgundy"></div>
+
+    <div class="shape shape-green"></div>
+
+    <div class="hero-photo">
+        <img src="images/hero.jpg.jpg" alt="Photo de présentation">
+    </div>
+
+</div>
+
+        </section>
+
+        <section class="about" id="about">
+
+    <div class="about-content">
+
+        <p class="section-label">
+            À PROPOS
+        </p>
+
+        <h2>
+            Qui suis-je ?
+        </h2>
+
+        <p class="about-text">
+            Je suis une étudiante en informatique,
+            qui souhaite développer des compétences dans le milieu
+            afin de trouver une alternance. 
+        </p>
+
+        <p class="about-text">
+            Curieuse et rigoureuse, je cherche une alternance
+            à l'issu de mon BTS SIO.
+        </p>
+
+
+        <div class="about-infos">
+
+            <div class="info">
+
+                <span class="info-icon">⌖</span>
+
+                <div>
+                    <span class="info-title">
+                        Localisation
+                    </span>
+
+                    <span class="info-value">
+                        Lille, France
+                    </span>
+                </div>
+
+            </div>
+
+
+            <div class="info">
+
+                <span class="info-icon">◷</span>
+
+                <div>
+                    <span class="info-title">
+                        Disponibilité
+                    </span>
+
+                    <span class="info-value">
+                       Dès maintenant 
+                    </span>
+                </div>
+
+            </div>
+
+
+            <div class="info">
+
+                <span class="info-icon">▣</span>
+
+                <div>
+                    <span class="info-title">
+                        Expérience
+                    </span>
+
+                    <span class="info-value">
+                        Projets personnels & scolaires
+                    </span>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <a href="#" class="about-button">
+            En savoir plus →
+        </a>
+
+    </div>
+
+
+    <div class="about-image">
+
+        <div class="about-image-decoration"></div>
+
+        <img
+            src="images/photo.jpg.jpg"
+            alt="Portrait"
+        >
+
+        <span class="about-note">
+            
+        </span>
+
+    </div>
+
+</section>
+
+<section class="projects" id="projects">
+
+    <div class="projects-header">
+
+        <div>
+
+            <p class="section-label">
+                MES PROJETS
+            </p>
+
+            <h2>
+                Une sélection de mes réalisations
+            </h2>
+
+        </div>
+
+        <a href="#" class="projects-link">
+            Voir tous les projets →
+        </a>
+
+    </div>
+
+
+    <div class="projects-grid">
+
+
+        <!-- PROJET 1 -->
+
+        <article class="project-card">
+
+            <div class="project-image">
+
+                <img
+                    src="images/projet-01.jpg.png"
+                    alt="Projet e-commerce"
+                >
+
+                <a href="https://safiacherifi.github.io/mon-portfolio/" class="project-arrow">
+                    ↗
+                </a>
+
+            </div>
+
+            <div class="project-info">
+
+                <div>
+
+                    <p class="project-number">
+                        01
+                    </p>
+
+                    <h3>
+                        Premier portfolio "test"
+                    </h3>
+
+                </div>
+
+                <div class="project-tags">
+
+                    <span>CSS</span>
+                    <span>HTML</span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+
+        <!-- PROJET 2 -->
+
+        <article class="project-card">
+
+            <div class="project-image">
+
+                <img
+                    src="images/projet-02.jpg.png"
+                    alt="Portfolio créatif"
+                >
+
+                <a href="#" class="project-arrow">
+                    ↗
+                </a>
+
+            </div>
+
+            <div class="project-info">
+
+                <div>
+
+                    <p class="project-number">
+                        02
+                    </p>
+
+                    <h3>
+                        Portfolio personnel
+                    </h3>
+
+                </div>
+
+                <div class="project-tags">
+
+                    <span>HTML</span>
+                    <span>CSS</span>
+
+                </div>
+
+            </div>
+
+        </article>
+
+
+    </div>
+
+</section>
+
+<section class="skills" id="skills">
+
+    <div class="skills-header">
+
+        <p class="section-label">
+            COMPÉTENCES
+        </p>
+
+        <h2>
+            Ce que je sais faire
+        </h2>
+
+        <p class="skills-intro">
+            
+        </p>
+
+    </div>
+
+
+    <div class="skills-list">
+
+
+        <!-- COMPETENCE 1 -->
+
+        <div class="skill">
+
+            <div class="skill-number">
+                01
+            </div>
+
+            <div class="skill-main">
+
+                <h3>
+                    Frontend
+                </h3>
+
+                <p>
+                    Création d'interfaces
+                </p>
+
+            </div>
+
+            <div class="skill-tags">
+
+                <span>HTML</span>
+                <span>CSS</span>
+
+            </div>
+
+        </div>
+
+
+        <!-- COMPETENCE 2 -->
+
+        <div class="skill">
+
+            <div class="skill-number">
+                02
+            </div>
+
+            <div class="skill-main">
+
+                <h3>
+                    Montage de poste
+                </h3>
+
+                <p>
+                    Montage et assemblage de poste informatique
+                </p>
+
+            </div>
+
+            <div class="skill-tags">
+
+                <span>Montage PC</span>
+                <span>Hardware</span>
+
+            </div>
+
+        </div>
+
+
+
+        <!-- COMPETENCE 3 -->
+
+        <div class="skill">
+
+            <div class="skill-number">
+                03
+            </div>
+
+            <div class="skill-main">
+
+                <h3>
+                    Outils numériques
+                </h3>
+
+                <p>
+                    Prise en main t découverte de l'environnement de développement web
+                </p>
+
+            </div>
+
+            <div class="skill-tags">
+
+                <span>GitHub</span>
+                <span>VS Code</span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="contact" id="contact">
+
+    <div class="contact-header">
+
+        <p class="section-label">
+            CONTACT
+        </p>
+
+        <h2>
+            Envie d'échanger avec moi ?
+            <span>Parlons-en.</span>
+        </h2>
+
+        <p class="contact-intro">
+            Une offre d'alternance à me proposer ?
+            N'hésitez pas à me contacter.
+        </p>
+
+    </div>
+
+
+    <div class="contact-content">
+
+        <div class="contact-info">
+
+            <div class="contact-item">
+
+                <span class="contact-label">
+                    EMAIL
+                </span>
+
+                <a href="mailto:safia.cherifi01@gmail.com">
+                    safia.cherifi01@gmail.com
+                </a>
+
+            </div>
+
+
+            <div class="contact-item">
+
+                <span class="contact-label">
+                    DISPONIBILITÉ
+                </span>
+
+                <p>
+                    Disponible dès maintenant
+                </p>
+
+            </div>
+
+
+            <div class="contact-item">
+
+                <span class="contact-label">
+                    TELEPHONE
+                </span>
+
+                <div class="contact-socials">
+
+                    <a href="tel:+33695836881"> 
+                        Mon numéro ↗
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <a
+            href="mailto:safia.cherifi01@gmail.com"
+            class="contact-button"
+        >
+            Me contacter
+            <span>↗</span>
+        </a>
+
+    </div>
+
+</section>
+
+    </main>
+
+    <footer class="footer">
+
+    <div class="footer-logo">
+        S
+    </div>
+
+    <p>
+        © 2026 — Safia Cherifi Tous droits réservés
+    </p>
+
+    <a href="#">
+        Retour en haut ↑
+    </a>
+
+</footer>
+</body>
+
+</html>
